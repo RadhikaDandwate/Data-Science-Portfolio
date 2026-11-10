@@ -1,0 +1,130 @@
+﻿expense_id,expense_date,category,subcategory,amount,family_member,vendor,payment_method,description,recurring,paid_status
+1,2026-04-01,Education,Mess,3500.00,Student,College Mess,Cash,Monthly mess expense,TRUE,Paid
+2,2026-04-01,Farm & Animals,Animal Food,2000.00,Father,Local Store,Cash,Food for cows and buffalo,TRUE,Paid
+3,2026-04-01,Food,Kirana,5000.00,Father,Kirana Store,Cash,Monthly kirana,TRUE,Paid
+4,2026-04-01,Food,Milk,4000.00,Mother,Local Milkman,Cash,Monthly milk,TRUE,Paid
+5,2026-04-01,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+6,2026-04-01,Housing,Home Loan,250000.00,Father,Home Loan Provider,Bank Transfer,Annual home loan payment,TRUE,Paid
+7,2026-04-01,Medical,Medicines & Checkup,2000.00,Father,Medical Store/Clinic,Cash,Medicines and checkups for mother and grandfather,TRUE,Paid
+8,2026-04-01,Utilities,Phone Balance,1000.00,Father,Mobile Recharge,Cash,Phone balance for 4 family members,TRUE,Paid
+9,2026-04-02,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+10,2026-04-03,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+11,2026-04-04,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+12,2026-04-04,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+13,2026-04-05,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+14,2026-04-06,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+15,2026-04-07,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+16,2026-04-08,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+17,2026-04-09,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+18,2026-04-10,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+19,2026-04-11,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+20,2026-04-11,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+21,2026-04-12,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+22,2026-04-12,Medical,Hospital Checkup,3500.00,Father,Hospital,UPI,Hospital checkup,FALSE,Paid
+23,2026-04-13,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+24,2026-04-14,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+25,2026-04-15,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+26,2026-04-16,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+27,2026-04-17,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+28,2026-04-18,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+29,2026-04-18,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+30,2026-04-19,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+31,2026-04-20,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+32,2026-04-21,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+33,2026-04-22,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+34,2026-04-23,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+35,2026-04-24,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+36,2026-04-25,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+37,2026-04-25,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+38,2026-04-26,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+39,2026-04-27,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+40,2026-04-28,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+41,2026-04-29,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+42,2026-04-30,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+43,2026-05-01,Education,Mess,3500.00,Student,College Mess,Cash,Monthly mess expense,TRUE,Paid
+44,2026-05-01,Farm & Animals,Animal Food,2000.00,Father,Local Store,Cash,Food for cows and buffalo,TRUE,Paid
+45,2026-05-01,Food,Kirana,5000.00,Father,Kirana Store,Cash,Monthly kirana,TRUE,Paid
+46,2026-05-01,Food,Milk,4000.00,Mother,Local Milkman,Cash,Monthly milk,TRUE,Paid
+47,2026-05-01,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+48,2026-05-01,Medical,Medicines & Checkup,2000.00,Father,Medical Store/Clinic,Cash,Medicines and checkups for mother and grandfather,TRUE,Paid
+49,2026-05-01,Utilities,Phone Balance,1000.00,Father,Mobile Recharge,Cash,Phone balance for 4 family members,TRUE,Paid
+50,2026-05-02,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+51,2026-05-02,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+52,2026-05-03,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+53,2026-05-04,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+54,2026-05-05,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+55,2026-05-06,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+56,2026-05-07,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+57,2026-05-08,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+58,2026-05-09,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+59,2026-05-09,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+60,2026-05-10,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+61,2026-05-10,Medical,Hospital Checkup,3000.00,Father,Hospital,UPI,Hospital checkup,FALSE,Paid
+62,2026-05-11,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+63,2026-05-12,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+64,2026-05-13,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+65,2026-05-14,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+66,2026-05-15,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+67,2026-05-16,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+68,2026-05-16,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+69,2026-05-17,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+70,2026-05-18,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+71,2026-05-19,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+72,2026-05-20,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+73,2026-05-21,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+74,2026-05-22,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+75,2026-05-23,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+76,2026-05-23,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+77,2026-05-24,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+78,2026-05-25,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+79,2026-05-26,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+80,2026-05-27,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+81,2026-05-28,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+82,2026-05-29,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+83,2026-05-30,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+84,2026-05-30,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+85,2026-05-31,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+86,2026-06-01,Education,College Fees,30000.00,Student,College,UPI,Annual college fees,FALSE,Paid
+87,2026-06-01,Education,Hostel Fees,36000.00,Student,College Hostel,UPI,Annual hostel fees,FALSE,Paid
+88,2026-06-01,Education,Mess,3500.00,Student,College Mess,Cash,Monthly mess expense,TRUE,Paid
+89,2026-06-01,Farm & Animals,Animal Food,2000.00,Father,Local Store,Cash,Food for cows and buffalo,TRUE,Paid
+90,2026-06-01,Food,Kirana,5000.00,Father,Kirana Store,Cash,Monthly kirana,TRUE,Paid
+91,2026-06-01,Food,Milk,4000.00,Mother,Local Milkman,Cash,Monthly milk,TRUE,Paid
+92,2026-06-01,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+93,2026-06-01,Medical,Medicines & Checkup,2000.00,Father,Medical Store/Clinic,Cash,Medicines and checkups for mother and grandfather,TRUE,Paid
+94,2026-06-01,Utilities,Phone Balance,1000.00,Father,Mobile Recharge,Cash,Phone balance for 4 family members,TRUE,Paid
+95,2026-06-02,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+96,2026-06-03,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+97,2026-06-04,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+98,2026-06-05,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+99,2026-06-06,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+100,2026-06-06,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+101,2026-06-07,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+102,2026-06-08,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+103,2026-06-09,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+104,2026-06-10,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+105,2026-06-11,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+106,2026-06-12,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+107,2026-06-13,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+108,2026-06-13,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+109,2026-06-14,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+110,2026-06-14,Medical,Hospital Checkup,3500.00,Father,Hospital,UPI,Hospital checkup,FALSE,Paid
+111,2026-06-15,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+112,2026-06-16,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+113,2026-06-17,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+114,2026-06-18,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+115,2026-06-19,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+116,2026-06-20,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+117,2026-06-20,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+118,2026-06-21,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+119,2026-06-22,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+120,2026-06-23,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+121,2026-06-24,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+122,2026-06-25,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+123,2026-06-26,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+124,2026-06-27,Food,Grocery,300.00,Father,Local Bajar,Cash,Weekly grocery purchase,FALSE,Paid
+125,2026-06-27,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+126,2026-06-28,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+127,2026-06-29,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+128,2026-06-30,Household,Newspaper,12.00,Father,Local Newspaper Vendor,Cash,Daily newspaper,FALSE,Paid
+129,2026-10-10,Medical,health Insurance,50000.00,Father,Health Insurance Provider,UPI,Annual health insurance premium,TRUE,Pending
